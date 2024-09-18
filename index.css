@@ -1,0 +1,60 @@
+h2 {
+  color: brown;
+}
+
+p {
+  color: bisque;
+}
+
+.wrapping {
+  height: 20px;
+  background-color: blueviolet;
+  border: 2px double black;
+  height: 200px;
+  padding: 20px;
+  margin: 20px;
+  position: static;
+  top: 50px;
+}
+
+#wrap-hadi {
+  font-weight: 800;
+}
+
+div h1 {
+  color: gold;
+}
+
+a:active {
+  color: aquamarine;
+}
+
+.one {
+  height: 20px;
+  background-color: rgb(46, 226, 43);
+  border: 2px double black;
+  height: 200px;
+  padding: 20px;
+  margin: 20px;
+  position: static;
+  top: 50px;
+}
+
+.con {
+  width: 200px;
+  height: 200px;
+}
+
+.con1 {
+  background-color: #7dcff0;
+}
+
+.con2 {
+  position: absolute; /* set position menjadi absolute */
+  background-color: yellow;
+  left: 50px;
+}
+
+.con3 {
+  background-color: #7dcff0;
+}
